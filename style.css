@@ -4,3 +4,6 @@
     ;
     border-color: #007bff;
 }
+.btn-primary:hover {
+    background-color: aqua
+}
